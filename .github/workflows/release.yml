@@ -7,7 +7,7 @@ on:
       - "v*"
 
 env:
-  BINDLE_SERVER_URL: https://bindle.hippos.rocks/v1
+  BINDLE_SERVER_URL: https://bindle.deislabs.io/v1
 
 jobs:
   publish:
